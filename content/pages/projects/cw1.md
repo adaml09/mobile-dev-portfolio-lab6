@@ -4,8 +4,8 @@ title: Class Work 1
 date: '2024-12-12'
 client: Durham College
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The class works were meant to be a short way to test the skills that we had
+  been learning in the course. The first was to make a very simple app in 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
