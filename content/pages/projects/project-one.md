@@ -17,8 +17,8 @@ media:
   altText: Project image
   caption: XML Lab - 2
 ---
-Here is the XML rendered in the browser.![](/images/Lab2_1.png)![](/images/Lab2_2.png)
+For this Lab we only had to make one XML page that was validated and rendered in the browser. It was simply meant to be an introduction to the language as it would be important later on. Here is the XML rendered in the browser.![](/images/Lab2_1.png)![](/images/Lab2_2.png)
 
-This has also been validated ensuring that it meets the XML standards, this was done on an external site. 
+As mentioned before this has also been validated ensuring that it meets the XML standards, this was done on an external site.
 
 ![](/images/Lab2_VAL.png)
