@@ -9,7 +9,7 @@ description: >-
   android studio with XML and Java. 
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CW1_1.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
