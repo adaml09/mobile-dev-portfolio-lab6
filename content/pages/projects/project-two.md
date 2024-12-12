@@ -44,6 +44,8 @@ Although the vast increase in mobile computing use has come with many advantages
 
 ### Google Pixel 9
 
+![](/images/Pixel9.png)
+
 *   Price – 128GB: $1 099 CAD, 256GB: $1 229 CAD
 
 *   Release Date – August 22nd, 2024
@@ -87,6 +89,8 @@ Although the vast increase in mobile computing use has come with many advantages
 *   Additional features / innovations – The addMe feature which allows you to add yourself into a picture by merging two pictures with the power of AI.
 
 ### i-Phone 16
+
+![](/images/Iphone16.png)
 
 *   Price – 128GB: $1 129, 256GB: $1 279, 512GB: $1 579
 
@@ -138,6 +142,10 @@ I would pick the Google Pixel 9; the specs are sightly better in most areas comp
 
 #### Rogers
 
+![](/images/rogers.png)
+
+
+
 *   Data – 50 GB, unlimited at a slower speed after
 
 *   Call/Texting – unlimited
@@ -158,7 +166,11 @@ I would pick the Google Pixel 9; the specs are sightly better in most areas comp
 
 *   Additional Features – Eligible for automatic payments as well as mobile hotspots
 
+![](/images/rogers_plan.png)
+
 #### Bell
+
+![](/images/bell.gif)
 
 *   Data –  50GB then unlimited at a slower speed thereafter
 
@@ -179,6 +191,8 @@ I would pick the Google Pixel 9; the specs are sightly better in most areas comp
 *   Coverage – NA
 
 *   Additional Features – NA
+
+![](/images/bell_plan.png)
 
 ### Which One I Would Pick
 
