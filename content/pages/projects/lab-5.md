@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/dart_logo_lab5.png
-  altText: Project image
+  altText: dart_logo_lab5
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
