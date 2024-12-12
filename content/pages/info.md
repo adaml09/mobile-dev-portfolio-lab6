@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: Visual Studio Code
       - type: Label
-        label: Next.js
+        label: Flutter
       - type: Label
         label: Netlify
       - type: Label
