@@ -75,7 +75,7 @@
             "email": "adamleblancleafs@gmail.com",
             "emailAltText": "My email",
             "address": "Whitby Ont Can",
-            "addressAltText": ""
+            "addressAltText": "MyAddress"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
