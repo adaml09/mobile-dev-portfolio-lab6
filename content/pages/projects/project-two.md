@@ -42,6 +42,8 @@ Although the vast increase in mobile computing use has come with many advantages
 
 ## Clash of Titans
 
+
+
 Google Pixel 9
 Price – 128GB: $1 099 CAD, 256GB: $1 229 CAD
 Release Date – August 22nd, 2024
@@ -96,29 +98,49 @@ I would pick the Google Pixel 9; the specs are sightly better in most areas comp
 
 #### Rogers
 
-Data – 50 GB, unlimited at a slower speed after
-Call/Texting – unlimited
-Global Call/Texting – unlimited, with roam like home (addition fee)
-Voicemail – enhanced voicemail
-Call Features – Call and name display, call waiting, forwarding and group calling as well as spam call detection
-Service credits – NA
-Fees – The roam like home functionality incurs additional fees based on usage
-Usage Policy – NA
-Coverage – NA
-Additional Features – Eligible for automatic payments as well as mobile hotspots
+*   Data – 50 GB, unlimited at a slower speed after
+
+*   Call/Texting – unlimited
+
+*   Global Call/Texting – unlimited, with roam like home (addition fee)
+
+*   Voicemail – enhanced voicemail
+
+*   Call Features – Call and name display, call waiting, forwarding and group calling as well as spam call detection
+
+*   Service credits – NA
+
+*   Fees – The roam like home functionality incurs additional fees based on usage
+
+*   Usage Policy – NA
+
+*   Coverage – NA
+
+*   Additional Features – Eligible for automatic payments as well as mobile hotspots
+
+
 
 #### Bell
 
-Data –  50GB then unlimited at a slower speed thereafter
-Call/Texting – Unlimited
-Global Call/Texting – Unlimited
-Voicemail – Voicemail to text
-Call Features – NA
-Service credits – NA
-Fees – NA
-Usage Policy – NA
-Coverage – NA
-Additional Features – NA
+*   Data –  50GB then unlimited at a slower speed thereafter
+
+*   Call/Texting – Unlimited
+
+*   Global Call/Texting – Unlimited
+
+*   Voicemail – Voicemail to text
+
+*   Call Features – NA
+
+*   Service credits – NA
+
+*   Fees – NA
+
+*   Usage Policy – NA
+
+*   Coverage – NA
+
+*   Additional Features – NA
 
 ### Which One I Would Pick
 
