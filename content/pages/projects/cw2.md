@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/CW2_3.png
-  altText: Project thumbnail image
+  altText: CW2
   caption: ''
   elementId: ''
 media:
