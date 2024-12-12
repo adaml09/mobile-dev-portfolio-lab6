@@ -5,7 +5,8 @@ date: '2024-12-12'
 client: Durham College
 description: >-
   The class works were meant to be a short way to test the skills that we had
-  been learning in the course. The first was to make a very simple app in 
+  been learning in the course. The first was to make a very simple app in
+  android studio and  
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
