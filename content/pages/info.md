@@ -128,7 +128,7 @@ sections:
       - type: Label
         label: Android Studio
       - type: Label
-        label: Microsoft Office
+        label: Visual Studio Code
       - type: Label
         label: Next.js
       - type: Label
