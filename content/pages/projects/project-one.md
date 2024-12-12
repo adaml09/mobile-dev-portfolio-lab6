@@ -15,6 +15,7 @@ media:
   type: ImageBlock
   url: /images/Lab2_1.png
   altText: Project image
+  caption: XML Lab - 2
 ---
 Here is the XML rendered in the browser.![](/images/Lab2_1.png)![](/images/Lab2_2.png)
 
