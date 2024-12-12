@@ -75,7 +75,7 @@
             "email": "adamleblancleafs@gmail.com",
             "emailAltText": "My email",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
