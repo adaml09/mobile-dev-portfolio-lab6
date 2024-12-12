@@ -6,7 +6,7 @@ client: Durham College
 description: 'Lab 3, was the next step up, we made a basic app using android studio and XML.'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Lab3_1.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
