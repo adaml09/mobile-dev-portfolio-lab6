@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "My Name is Adam LeBlanc, I am at the time of writing a student at\_Durham College. I'm set to finish my studies in the spring of 2025. This site is designed to showcase some of my projects from my mobile development\_course. This course was a great learning experience and it was fun getting to dive into the world of mobile development.\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
