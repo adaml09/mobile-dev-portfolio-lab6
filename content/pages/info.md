@@ -138,7 +138,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Dart
   - type: DividerSection
     styles:
       self:
