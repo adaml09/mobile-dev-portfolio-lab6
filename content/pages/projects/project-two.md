@@ -14,7 +14,6 @@ featuredImage:
   caption: Lab 1
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
   altText: Project image
 ---
 # Lab – 1
