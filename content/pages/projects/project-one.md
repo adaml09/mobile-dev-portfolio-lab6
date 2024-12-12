@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-12-11'
 client: Durham College
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Lab 2 was an introduction to working with XML. This was because XML would be a
+  part of the mobile development we would be doing starting in android studio. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
