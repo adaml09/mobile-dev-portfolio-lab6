@@ -9,7 +9,7 @@ description: >-
   all our knowledge. My group decided to make a bakery app 
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/proj_1.png
   altText: Project image
 ---
 
