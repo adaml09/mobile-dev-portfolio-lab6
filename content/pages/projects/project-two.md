@@ -9,7 +9,7 @@ description: >-
   the basis's of the environment that we were working in
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Pixel9.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
