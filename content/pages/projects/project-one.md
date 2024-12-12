@@ -1,11 +1,12 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Main Project
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2024-12-11'
+client: Durham College
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This was the final project for the course and was designed for us to showcase all that we had learned. My team,
+  composed of myself and two classmates decided that we would make a bakery app. This included having a way to login along with multiple offerings and filtering. This was one of the largest projects at it was a great experince. Seeing the final product on my own phone was such a gratifying moment. Detailed below are a few screentshoots of the final product. It can also be found on my github(https://github.com/thwhxx/bakery_app.git). If you would like access you can contact me at (adamleblancleafs@gmail.com).
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
