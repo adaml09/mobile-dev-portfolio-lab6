@@ -23,7 +23,7 @@ backgroundImage:
   opacity: 100
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/dart_logo_lab4.png
   altText: Dart_logo
   caption: Caption of the image
   elementId: ''
