@@ -81,7 +81,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/adam-leblanc-1b6b60293
         styles:
           self:
             textAlign: left
