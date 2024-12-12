@@ -16,7 +16,9 @@ sections:
     title: 'I’m a developer, currently finishing my studies at Durham college '
     subtitle: >-
       This site is designed to showcase what I have learned during my Mobile
-      development course 
+      development course INFT-3101-01. It was a great introduction into mobile
+      development and it was fun to dive into this topic which was new to me.
+      Feel free to look around. I hope you enjoy !
     styles:
       self:
         height: auto
