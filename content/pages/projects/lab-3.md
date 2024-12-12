@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Lab 3
 date: '2024-12-12'
 client: Durham College
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Lab 3, was the next step up, we made a basic app using android studio and XML.'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
