@@ -9,7 +9,7 @@ description: >-
   part of the mobile development we would be doing starting in android studio. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Lab2_1.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
