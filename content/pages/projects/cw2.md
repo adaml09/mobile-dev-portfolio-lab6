@@ -9,7 +9,7 @@ description: >-
   has a limited scope but is good for doing proof of concepts. 
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CW2_3.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
