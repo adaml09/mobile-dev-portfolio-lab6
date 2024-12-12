@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Lab3_1.png
   altText: Project thumbnail image
-  caption: ''
+  caption: Lab 3 Simple Android App
   elementId: ''
 media:
   type: ImageBlock
