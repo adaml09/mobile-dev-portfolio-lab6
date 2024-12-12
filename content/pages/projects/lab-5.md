@@ -11,7 +11,7 @@ featuredImage:
   type: ImageBlock
   url: /images/dart_logo_lab5.png
   altText: Dart_logo_lab5
-  caption: ''
+  caption: 'source:'
   elementId: ''
 media:
   type: ImageBlock
