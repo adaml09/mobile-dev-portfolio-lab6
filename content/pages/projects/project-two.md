@@ -11,6 +11,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Pixel9.png
   altText: Project thumbnail image
+  caption: Lab 1
 media:
   type: ImageBlock
   url: /images/bg2.jpg
