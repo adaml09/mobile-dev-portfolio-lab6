@@ -45,12 +45,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "adamleblancleafs@gmail.com",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects",
                 "altText": ""
