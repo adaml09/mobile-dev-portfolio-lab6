@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Lab 3
 date: '2024-12-12'
-client: Awesome client
+client: Durham College
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
