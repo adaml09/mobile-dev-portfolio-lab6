@@ -16,9 +16,9 @@ sections:
     text: >-
       ## My Name is Adam LeBlanc, I am at the time of writting a student at
       Durham College. I'm set to finish my studies in the spring of 2025. This 
-      site is designed to showcase some of my projects from my mobile development
-      course. This course was a great learning experince and it was fun getting 
-      to dive into the world of mobile development. 
+      site is designed to showcase some of my projects from my mobile
+      development course. This course was a great learning experince and it was
+      fun getting  to dive into the world of mobile development. 
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -86,7 +86,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'www.linkedin.com/in/adam-leblanc-1b6b60293'
+            url: www.linkedin.com/in/adam-leblanc-1b6b60293
         styles:
           self:
             textAlign: left
@@ -165,7 +165,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <adamleblancleafs@gmail.com>
   - type: DividerSection
     styles:
       self:
