@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Lab2_1.png
   altText: Project image
 ---
 Here is the XML rendered in the browser.![](/images/Lab2_1.png)![](/images/Lab2_2.png)
