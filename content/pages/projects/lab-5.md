@@ -19,7 +19,9 @@ media:
   type: ImageBlock
   url: /images/dart_logo_lab5.png
   altText: dart_logo_lab5
-  caption: Caption of the image
+  caption: >-
+    Source:
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FDart_%2528programming_language%2529&psig=AOvVaw20yInt6Gi79F9CcWCxgWn-&ust=1734070476861000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDdn4jKoYoDFQAAAAAdAAAAABAE
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
