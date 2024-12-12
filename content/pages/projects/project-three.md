@@ -14,7 +14,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/proj_1.png
-  altText: altText of the image
+  altText: proj_1
   caption: Caption of the image
   elementId: ''
 ---
