@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/dart_logo_lab5.png
-  altText: Project thumbnail image
+  altText: Dart_logo_lab5
   caption: ''
   elementId: ''
 media:
