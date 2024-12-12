@@ -42,28 +42,6 @@ Mohammad Shamas
 
 Durham College
 
-Contents
-
-[Overview 2](#_Toc181345171)
-
-[Why use Objects? 2](#_Toc181345172)
-
-[Advantages / Limitations 2](#_Toc181345173)
-
-[Advantages 2](#_Toc181345174)
-
-[Disadvantages 3](#_Toc181345175)
-
-[References 3](#_Toc181345176)
-
-[Code Examples 4](#_Toc181345177)
-
-[Example 1 4](#_Toc181345178)
-
-[Example 2 5](#_Toc181345179)
-
-[Real World Example 7](#_Toc181345180)
-
 # Overview
 
 In general objects are key parts of any programming language. They are sections of code that contain data and functions. Many programming languages have objects as the central part of their system, this is called object-oriented programming (OOP). Dart falls into this category, everything down to the variables is treated as an object in dart, even null is treated as such. Why are objects a key part of so many languages including dart, what advantages do they provide, are there any disadvantages?
@@ -82,25 +60,25 @@ Just like anything else, the utilization of objects in Dart comes with its own s
 
 ## Advantages
 
-- Encapsulation – Dart allows for encapsulation by the creation of private data types. This is done by using underscore in the prefix of the declaration. This allows for the selected data to be protected, keeping internal states and information secure
-- Reusability – just like any other OOP language, the use of objects in dart allows for great modularity within your code. As discussed earlier this means that your code can stay more organized and allows you to write less lines of code. This is great for large scale projects.
-- Darts asynchronous design – The Dart language is designed with asynchronous functionality in mind, using keywords like await and async. The utilization of objects allows for event driven functionality which works well with this asynchronous architecture.
+*   Encapsulation – Dart allows for encapsulation by the creation of private data types. This is done by using underscore in the prefix of the declaration. This allows for the selected data to be protected, keeping internal states and information secure
+*   Reusability – just like any other OOP language, the use of objects in dart allows for great modularity within your code. As discussed earlier this means that your code can stay more organized and allows you to write less lines of code. This is great for large scale projects.
+*   Darts asynchronous design – The Dart language is designed with asynchronous functionality in mind, using keywords like await and async. The utilization of objects allows for event driven functionality which works well with this asynchronous architecture.
 
 ## Disadvantages
 
-- Performance – The creation and use of objects is relatively taxing on memory due to their need to keep track of both the data and any methods. This can mean that overuse of objects in key performance areas of a program can cause a loss of performance
-- Complexity – Although in many ways using objects can greatly simplify any project. The one scenario in which this may not be the case is in simple small projects. Using too many objects and classes when this is not necessary can make code more cumbersome than needed.
-- Lack of Multiple inheritance – Dart does not support a class from inheriting from more than one super class. This can greatly decrease the potential functionality of some classes. Although mixins aid in this issue this still does not provide the full functionality of multiple inheritance.
+*   Performance – The creation and use of objects is relatively taxing on memory due to their need to keep track of both the data and any methods. This can mean that overuse of objects in key performance areas of a program can cause a loss of performance
+*   Complexity – Although in many ways using objects can greatly simplify any project. The one scenario in which this may not be the case is in simple small projects. Using too many objects and classes when this is not necessary can make code more cumbersome than needed.
+*   Lack of Multiple inheritance – Dart does not support a class from inheriting from more than one super class. This can greatly decrease the potential functionality of some classes. Although mixins aid in this issue this still does not provide the full functionality of multiple inheritance.
 
 ### References
 
-Dart. (n.d.). _Classes_. Dart.dev. <https://dart.dev/language/classes>
+Dart. (n.d.). *Classes*. Dart.dev. <https://dart.dev/language/classes>
 
-GeeksforGeeks. (2021, April 5). _Dart - Classes and Objects_. GeeksforGeeks. <https://www.geeksforgeeks.org/dart-classes-and-objects/>
+GeeksforGeeks. (2021, April 5). *Dart - Classes and Objects*. GeeksforGeeks. <https://www.geeksforgeeks.org/dart-classes-and-objects/>
 
-Javatpoint. (n.d.). _Dart Classes and Object_. Javatpoint. <https://www.javatpoint.com/dart-classes-and-object>
+Javatpoint. (n.d.). *Dart Classes and Object*. Javatpoint. <https://www.javatpoint.com/dart-classes-and-object>
 
-Sarkar, R. (2021, August 17). _Inheritance in Dart_. Medium. <https://rushalisarkar.medium.com/inheritance-in-dart-6dde3cdaa6c4>
+Sarkar, R. (2021, August 17). *Inheritance in Dart*. Medium. <https://rushalisarkar.medium.com/inheritance-in-dart-6dde3cdaa6c4>
 
 # Code Examples
 
