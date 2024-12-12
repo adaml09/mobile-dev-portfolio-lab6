@@ -4,8 +4,9 @@ title: Lab 5
 date: '2024-12-12'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Lab 5 was about getting us prepared for our first Flutter app. We once again
+  were assigned a topic in flutter to research, the one I received was handling
+  gestures in Flutter. 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
