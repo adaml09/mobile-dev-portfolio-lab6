@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Lab 4
 date: '2024-12-12'
 client: Durham College
-description: 'Lab 4 is '
+description: 'Lab 4 was our first introduction to Dart. Each student was given  a topic '
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
