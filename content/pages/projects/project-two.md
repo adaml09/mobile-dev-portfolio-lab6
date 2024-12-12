@@ -42,53 +42,93 @@ Although the vast increase in mobile computing use has come with many advantages
 
 ## Clash of Titans
 
+### Google Pixel 9
 
+*   Price – 128GB: $1 099 CAD, 256GB: $1 229 CAD
 
-Google Pixel 9
-Price – 128GB: $1 099 CAD, 256GB: $1 229 CAD
-Release Date – August 22nd, 2024
-OS – Android 14
-Chipset – Google Tensor G4 (4 nm)
-CPU – Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)
-RAM – 12GB
-Storage – 128GB, 256GB
-External Storage – Google drive integration, the size depends on how much space you have
-Display – 6.3 inches (86.1% screen to body ratio), OLED, 120Hz, 1080 x 2424, 20:9 ratio
-Camera (rear) – 10.5 MP, f/2.2, 20mm (ultrawide), 1/3.1”, 1.22um, PDAF
-Video 4K\@30/60fps, 1080p\@30/60fps
-Camera (front) – Dual: 1(50MP, f/1.7, 25mm (wide), 1/1.31”, 1.2um, dual pixel PDAF, OIS) 2(48MP, f/1.7, 123degree (ultrawide), ½.55”, dual pixel PDAF)
-GPS –
-Battery – Li-Ion 4700 mAh, non-removable
-Battery (talk time) – 26  ½ hours
-Battery (standby) – 26 hours +
-Network – GSM / HSPA / LTE / 5G
-Synchronization (laptop/desktop) – fully compatible
-Voice enabled – YES (google assistant)
-Browser – Google chrome
-Additional features / innovations – The addMe feature which allows you to add yourself into a picture by merging two pictures with the power of AI.
+*   Release Date – August 22nd, 2024
 
-i-Phone 16
-Price – 128GB: $1 129, 256GB: $1 279, 512GB: $1 579
-Release Date – Announced Sept 9th, 2024, Expected release date Sept 20th, 2024
-OS – IOS 18
-Chipset – Apple A18 (3 nm)
-CPU – Hexa-core
-RAM – 8GB
-Storage – 128GB, 256GB, 512GB
-External Storage – I-Cloud storage can be purchased separately
-Display – 6.1 inches (86.8% screen to body ratio) Super Retina XDR, OLDED, HDR10, Dolby Vision, 1000 nits, 1179 x 2666 pixels, 19:5:9 ratio
-Camera (rear) – 12 MP, f/1.9, 23mm (wide), 1/3.6”, PDAF, SL 3D, (depth/biometrics sensor) video 4K\@24/25/30/60fps, 1080p\@25/30/60/120fps
-Camera (front) – Dual 1(48 MP, f/1.6, 26mm (wide), 1/1.56", 1.0µm, dual pixel PDAF, sensor-shift OIS), 2(12 MP, f/2.2, 13mm, 120˚ (ultrawide), 0.7µm, dual pixel PDAF),
-Video: 4K\@24/25/30/60fps, 1080p\@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps)
-GPS –
-Battery – Li-Ion, non-removable
-Battery (talk time) – 22 hours (estimated)
-Battery (standby) – 24 hours + (estimated)
-Network – GSM / CDMA / HSPA / EVDO / LTE / 5G
-Synchronization (laptop/desktop) –
-Voice enabled – YES (Siri)
-Browser – Safari
-Additional features / innovations – Audio Mixing feature, which filters out background noise in the video and helps give the speaker's voice sound a studio quality.
+*   OS – Android 14
+
+*   Chipset – Google Tensor G4 (4 nm)
+
+*   CPU – Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)
+
+*   RAM – 12GB
+
+*   Storage – 128GB, 256GB
+
+*   External Storage – Google drive integration, the size depends on how much space you have
+
+*   Display – 6.3 inches (86.1% screen to body ratio), OLED, 120Hz, 1080 x 2424, 20:9 ratio
+
+*   Camera (rear) – 10.5 MP, f/2.2, 20mm (ultrawide), 1/3.1”, 1.22um, PDAF
+
+*   Video 4K\@30/60fps, 1080p\@30/60fps
+
+*   Camera (front) – Dual: 1(50MP, f/1.7, 25mm (wide), 1/1.31”, 1.2um, dual pixel PDAF, OIS) 2(48MP, f/1.7, 123degree (ultrawide), ½.55”, dual pixel PDAF)
+
+*   GPS –
+
+*   Battery – Li-Ion 4700 mAh, non-removable
+
+*   Battery (talk time) – 26  ½ hours
+
+*   Battery (standby) – 26 hours +
+
+*   Network – GSM / HSPA / LTE / 5G
+
+*   Synchronization (laptop/desktop) – fully compatible
+
+*   Voice enabled – YES (google assistant)
+
+*   Browser – Google chrome
+
+*   Additional features / innovations – The addMe feature which allows you to add yourself into a picture by merging two pictures with the power of AI.
+
+### i-Phone 16
+
+*   Price – 128GB: $1 129, 256GB: $1 279, 512GB: $1 579
+
+*   Release Date – Announced Sept 9th, 2024, Expected release date Sept 20th, 2024
+
+*   OS – IOS 18
+
+*   Chipset – Apple A18 (3 nm)
+
+*   CPU – Hexa-core
+
+*   RAM – 8GB
+
+*   Storage – 128GB, 256GB, 512GB
+
+*   External Storage – I-Cloud storage can be purchased separately
+
+*   Display – 6.1 inches (86.8% screen to body ratio) Super Retina XDR, OLDED, HDR10, Dolby Vision, 1000 nits, 1179 x 2666 pixels, 19:5:9 ratio
+
+*   Camera (rear) – 12 MP, f/1.9, 23mm (wide), 1/3.6”, PDAF, SL 3D, (depth/biometrics sensor) video 4K\@24/25/30/60fps, 1080p\@25/30/60/120fps
+
+*   Camera (front) – Dual 1(48 MP, f/1.6, 26mm (wide), 1/1.56", 1.0µm, dual pixel PDAF, sensor-shift OIS), 2(12 MP, f/2.2, 13mm, 120˚ (ultrawide),0.7µm, dual pixel PDAF),
+
+*   Video: 4K\@24/25/30/60fps, 1080p\@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps)
+
+*   GPS –
+
+*   Battery – Li-Ion, non-removable
+
+*   Battery (talk time) – 22 hours (estimated)
+
+*   Battery (standby) – 24 hours + (estimated)
+
+*   Network – GSM / CDMA / HSPA / EVDO / LTE / 5G
+
+*   Synchronization (laptop/desktop) –
+
+*   Voice enabled – YES (Siri)
+
+*   Browser – Safari
+
+*   Additional features / innovations – Audio Mixing feature, which filters out background noise in the video and helps give the speaker's voice sound a studio quality.
 
 ### Which One Would I Pick
 
@@ -117,8 +157,6 @@ I would pick the Google Pixel 9; the specs are sightly better in most areas comp
 *   Coverage – NA
 
 *   Additional Features – Eligible for automatic payments as well as mobile hotspots
-
-
 
 #### Bell
 
