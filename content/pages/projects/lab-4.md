@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Lab 4
 date: '2024-12-12'
 client: Durham College
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Lab 4 is '
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
